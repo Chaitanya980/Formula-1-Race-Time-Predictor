@@ -1,4 +1,4 @@
-# Monaco Grand Prix 2025 Race Time Prediction
+# F1 Grand Prix Winner Prediction System (Monaco Grand Prix 2025)
 
 This project predicts the race times for drivers in the 2025 Monaco Grand Prix using machine learning techniques, specifically a Gradient Boosting Regressor. It leverages historical 2024 Monaco GP data, 2025 qualifying times, weather forecasts, and team performance metrics to make informed predictions. The project also incorporates SHAP (SHapley Additive exPlanations) analysis to interpret the model’s predictions and visualize feature importance. Various plots are generated to provide insights into the predictions and the factors influencing them.
 
@@ -177,6 +177,5 @@ Model Error (MAE): 0.45 seconds
 
 ## Conclusion
 
-This project demonstrates a data-driven approach to predicting Formula 1 race outcomes, combining historical data, real-time weather forecasts, and machine learning. The use of SHAP analysis enhances interpretability, making it a valuable tool for understanding the factors driving race predictions. While tailored to the 2025 Monaco GP, the methodology can be adapted to other races or seasons with appropriate data.
+This project showcases a powerful, data-driven way to predict Formula 1 race results by blending historical race data, live weather forecasts, and advanced machine learning techniques. The inclusion of SHAP analysis makes the predictions transparent, offering clear insights into what influences the outcomes. Although designed with the 2025 Monaco Grand Prix in mind, the approach is versatile enough to be applied to other races or seasons, provided the right data is available
 
-For questions or contributions, please contact the project maintainer.
